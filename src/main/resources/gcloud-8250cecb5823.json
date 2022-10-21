@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kaputelefon",
+  "private_key_id": "5afc972838995c40391a2512b298ce5e4402c047",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCaglFvJ00WPg7+\noLWYepai0R9QAh2nW0MlWw/9WgO8aW4AuhraYN7TC/5v7Bzufxc/xoDBFb9R/HT4\ndNJcxQb4WOjHBKqFAaKejP2jD/kq+Rnj2WTr1ZT/pC0FqqckSf72qlJC+upNeoZH\n2x1U6Ev7sk6d+zb320yXSj57Lhz9fTn+6+m9zw4c/Qckue16XJ+LXM0MN2QBpc4t\nPnYdhFWOZgITIvhZhfSe0Z69s49JUnM5H778qnMz1bFdXxCIlsAxYxKnyqGnyjQ4\nvPzcJ5U6IMU9hpgpzocxmmP8PoXyVakgdAak/na1HOdf67QJXscLk0KPdEMMn9DY\n7YJ4I1CFAgMBAAECggEAJCv9ohLWmG4zZvebQ+TxJpFkLgAszo0OSWzJ78NWzBF3\nnAp1tmnGyKxOZwflFw2gVQElC+8KMQi0HqWEyQykTthLuKn2PLivCETULUxURjP2\nlHHEz3RbU0TteF3lDtkW7ErgAsfIuhZE4QYiVgojHbv27UPOcNTBl8qdGYvoZAyD\nkRO58ew1iM4+ED7Qjse0wuYy5R8EpgXXAU/fClOH5o+oWl3ayaLihK7bOIynV+4v\nAcoN8em9dcOHEnxlhvHp9D22y255Of1E8hCMUej8mf8Q4QE9bpURqQ2t8IB7rIZb\nWJBZ+rinzpDq4D/9JorL5mNeW+mGsDKWOELemJpMOQKBgQDTLKvw/VMjg8baMoOH\n6y/XMashCwp3zIhtZ3xZhMBfBkE4JjvxRc09dy3UDCrVmmgP+7IVhFUI5w88udkY\nxypmQJsoiKSzT+CbqnKxCWOn4HSWiwtQcnY/un+hMtsbuH31VvMWRCKzcBqJG87z\nx7tE3sTmPpsasVxHPZnLn7YQ+QKBgQC7Tmrz8rvWwmDUbzen0/TDzUU0GRIHl3rG\nK9zLTEhWSa5Qw5CoQQg00M+hTpIkUGnE7eV3tvezGSeq4w/VvJXg+iSONBm+bpAg\nLXTiKNT2dwgs4Jb2WCzp9l3mHoGMzmrR1a5Dn/Koqkggb3z/jU3BPAO4eALGBpKM\naIOocCLq7QKBgQCo0yvbDAttdyqAwqWZAhNLLTAsyJDj2aawIG2ve4v37B4z7404\nhJ9ipmcDAX81Ka5MKOLkhNketurdl47SWlexS7E/pI5XtGJS0N/EXUdIrQ9IU30G\nIZwbstPaYbf9328DtzG7+Vjsr5DnUE4RYvp6QsaTdDW4D1dAtSTBP7vksQKBgEsn\nk9J+OtBY/fE/Dt3QNg26d2IIDSvuo9yQDO+llADLX54YWhqovVozzpuyowDfIxFZ\nQxFd4NWD6l6u7NOd76VtuO02Cn5Wbo36r0NvjsO1zxnyo6AEkUDvEY4b/284A7Re\nQKXxr7PtXzNkiIshb2lxYyzJOpOqX3LnHKyhEeGhAoGBAMOTsYwOSC0hVbgeZDLL\nCBeXn5Tn7fieRjLKHr6adNMk2KYst2ut7+ZWjdfz4w9nBUB6qOxa/ED1+N42POeh\nniUqcjL4805CMv15odEeXuLoy4s/CPvLNx3wbqK9vrl6tqxnXEljsWO5zH+cs3Mc\nff1A+WRhj5A/ZIBmRQI6ptzP\n-----END PRIVATE KEY-----\n",
+  "client_email": "MOTYO-LOGGING-SERVICE@kaputelefon.iam.gserviceaccount.com",
+  "client_id": "116021974132564772590",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/MOTYO-LOGGING-SERVICE%40kaputelefon.iam.gserviceaccount.com"
+}
