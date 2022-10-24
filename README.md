@@ -77,3 +77,19 @@ native executable:
 After getting a cup of coffee, you'll be able to run this executable directly:
 
 > ./target/getting-started-1.0.0-SNAPSHOT-runner
+
+### Heroku
+https://quarkus.io/guides/deploying-to-heroku
+```
+APP_NAME=motyo-log
+
+mvn clean package\
+  -Dquarkus.container-image.build=true\
+  -Dquarkus.container-image.group=registry.heroku.com/$APP_NAME\
+  -Dquarkus.container-image.name=web\
+  -Dquarkus.container-image.tag=latest
+  
+docker push registry.heroku.com/$APP_NAME/web
+heroku container:release web --app $APP_NAME
+
+```
